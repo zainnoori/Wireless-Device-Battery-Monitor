@@ -15,6 +15,7 @@ charging =
 fully charged = 
 asleep = 
 unplug the dongle and plug it back in = 
+no battery report over the USB cable = 
 No devices with battery info found = 
 Low battery = 
 Notify when charged to (saves the battery) = 

@@ -5,6 +5,7 @@
 
 off / not connected = kapalı / bağlı değil
 {percent}% (last known) = {percent}% (son bilinen)
+no battery report over the USB cable = USB kablosunda pil bilgisi gelmiyor
 unknown = bilinmiyor
 charging = şarj oluyor
 asleep = uykuda
